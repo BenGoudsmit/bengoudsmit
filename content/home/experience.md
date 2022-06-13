@@ -31,10 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        Basic internal medicine training.
         
   - title: Medical Student Leiden University Medical Center
     company: Leiden University
