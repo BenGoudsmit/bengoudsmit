@@ -10,15 +10,12 @@ main:
   - name: Publications
     url: 'publications'
     weight: 20
+  - name: Thesis
+    url: 'thesis'
+    weight: 30
   - name: Applications
     url: '#projects'
-    weight: 30
-  - name: Talks
-    url: '#talks'
     weight: 40
-  - name: Courses
-    url: courses/
-    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 50
