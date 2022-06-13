@@ -3,16 +3,8 @@ abstract: The MELD score is used in the Eurotransplant (ET) region to allocate l
 # author_notes:
 # - Equal contribution
 # - Equal contribution
-authors:
-- Goudsmit, B.F.J. 
-- Putter, H. 
-- Tushuizen, M.E. 
-- de Boer, J. 
-- Vogelaar, S. 
-- Alwayn, I.P.J. 
-- van Hoek, B. 
-- Braat, A.E.
-# date: "2015-09-01T00:00:00Z"
+authors:["Goudsmit, B.F.J.", "Putter, H.", "Tushuizen, M.E.", "de Boer, J.", "Vogelaar, S.", "Alwayn, I.P.J." "van Hoek, B.", "Braat, A.E."]
+date: "2020-06-11T00:00:00Z"
 doi: "10.1111/ajt.16142"
 featured: true
 image:
@@ -21,7 +13,7 @@ image:
   preview_only: true
 projects: []
 publication: '*American Journal of Transplantation*'
-publication_short: ""
+publication_short: "MElD-Na"
 publication_types:
 - "2"
 publishDate: "2020-06-11T00:00:00Z"
@@ -29,7 +21,7 @@ slides: MELD-Na in Eurotransplant
 summary: Validation of the MELD-Na score for the Eurotransplant region.
 tags:
 - Source Themes
-title: An example journal article
+title: Validating the Model for End-stage Liver Disease Sodium score for the Eurotransplant region.
 # url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 url_dataset: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajt.16142
