@@ -25,7 +25,7 @@ experience:
   - title: Resident internal medicine
     company: Haaglanden Medisch Centrum
     company_url: ''
-    company_logo: HMC
+    company_logo:
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -36,7 +36,7 @@ experience:
   - title: Medical Student Leiden University Medical Center
     company: Leiden University
     company_url: ''
-    company_logo: LUMC
+    company_logo: 
     location: Leiden
     date_start: '2012-09-01'
     date_end: '2018-10-01'
