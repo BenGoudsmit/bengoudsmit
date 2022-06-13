@@ -26,21 +26,38 @@ experience:
     company: Haaglanden Medisch Centrum
     company_url: ''
     company_logo:
-    location: California
+    location: Leiden
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        Basic internal medicine training.
-        
-  - title: Medical Student Leiden University Medical Center
-    company: Leiden University
+    description:
+    
+  - title: PhD in biostatistics and transplantation hepatology
+    company: Leiden University Medical Center
+    company_url: ''
+    company_logo:
+    location: Leiden
+    date_start: '2019-03-01'
+    date_end: ''
+    description:
+    
+  - title: Medical Student 
+    company: Leiden University Medical Center
     company_url: ''
     company_logo: 
     location: Leiden
     date_start: '2012-09-01'
     date_end: '2018-10-01'
-    description: Medical training.
+    description: 
+    
+  - title: Honours College Student 
+    company: Leiden University
+    company_url: ''
+    company_logo: 
+    location: Leiden
+    date_start: '2012-09-01'
+    date_end: '2015-10-01'
+    description:
+    
 
 design:
   columns: '2'
