@@ -3,7 +3,7 @@ abstract: The MELD score is used in the Eurotransplant (ET) region to allocate l
 # author_notes:
 # - Equal contribution
 # - Equal contribution
-authors:["Goudsmit, B.F.J.", "Putter, H.", "Tushuizen, M.E.", "de Boer, J.", "Vogelaar, S.", "Alwayn, I.P.J." "van Hoek, B.", "Braat, A.E."]
+authors: ["Goudsmit, B.F.J.", "Putter, H.", "Tushuizen, M.E.", "de Boer, J.", "Vogelaar, S.", "Alwayn, I.P.J." "van Hoek, B.", "Braat, A.E."]
 date: "2020-06-11T00:00:00Z"
 doi: "10.1111/ajt.16142"
 featured: true
