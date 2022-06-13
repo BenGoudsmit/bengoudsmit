@@ -20,14 +20,13 @@ image:
   focal_point: ""
   preview_only: true
 projects: []
-publication: '*American Journal of Transplantation*(1)'
+publication: '*American Journal of Transplantation*'
 publication_short: ""
 publication_types:
 - "2"
 publishDate: "2020-06-11T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slides: MELD-Na in Eurotransplant
+summary: Validation of the MELD-Na score for the Eurotransplant region.
 tags:
 - Source Themes
 title: An example journal article
@@ -36,7 +35,7 @@ url_dataset: ""
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/ajt.16142
 url_poster: ""
 url_project: ""
-url_slides: ""
+# url_slides: ""
 url_source: ""
 url_video: ""
 ---
