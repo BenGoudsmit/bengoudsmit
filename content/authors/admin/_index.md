@@ -19,7 +19,7 @@ interests:
 organizations:
 - name: Leiden University Medical Center
   url: https://www.lumc.nl/
-role: MD PhD student
+role: MD PhD
 social:
 - icon: envelope
   icon_pack: fas
